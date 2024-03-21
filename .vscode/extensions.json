@@ -1,6 +1,8 @@
 {
-    "recommendations": [
-        "ms-toolsai.jupyter",
-        "ms-python.python"
-    ]
+  "recommendations": [
+    "ms-toolsai.jupyter",
+    "ms-python.python",
+    "ms-python.black-formatter",
+    "ms-python.autopep8"
+  ]
 }

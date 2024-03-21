@@ -1,4 +1,7 @@
+black==24.3.0
+flake8==7.0.0
 ipykernel==6.29.3
+isort==5.13.2
 matplotlib==3.8.3
 pandas==2.2.1
 seaborn==0.13.2
